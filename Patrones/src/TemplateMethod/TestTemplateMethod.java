@@ -7,8 +7,8 @@ public class TestTemplateMethod {
 	Animal gatito = new Gato();
 	
 	@Test
-	public void perritoCome() {
-		perrito.comer();
+	public void vivoComoPerro() {
+		perrito.vivir();
 		
 	}
 	@Test 
